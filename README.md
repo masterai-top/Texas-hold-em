@@ -1,8 +1,7 @@
 # Texas-hold-em
 德州赛事app代码，大陆德州赛事源码，类似cpg，TJPT等国内赛事的线上比赛app代码，产品质量精美，代码稳定，上线过ios商品，可以出对接国内德州比赛门票。有意者tg：@xuzongbin001 或邮箱：masterai918@gmail.com
 
-![2024_02_03_21_39_IMG_7030](https://github.com/user-attachments/assets/643a3d55-8e1a-4e05-9b6a-c599134b8260)
-![2024_02_03_21_41_IMG_7037](https://github.com/user-attachments/assets/e1f2e695-fd6a-47a5-91cd-76ff0b62403c)
+
 
 ![02比赛影集](https://github.com/user-attachments/assets/02443c4e-5953-452e-b1e6-5ce4397e2b0e)
 ![01登录](https://github.com/user-attachments/assets/3ed93a5b-a0c3-4060-b227-4b400f065ceb)
@@ -22,3 +21,5 @@
 ![兑换02](https://github.com/user-attachments/assets/79f959ed-8a43-4b1b-ab73-a1b9ab2f8902)
 ![兑换01](https://github.com/user-attachments/assets/656f2d4f-707d-4d65-9d92-3c507f312fc6)
 ![2024_02_03_21_41_IMG_7035](https://github.com/user-attachments/assets/ba070357-5083-4f47-b0f5-bd7646039b5b)
+![2024_02_03_21_39_IMG_7030](https://github.com/user-attachments/assets/643a3d55-8e1a-4e05-9b6a-c599134b8260)
+![2024_02_03_21_41_IMG_7037](https://github.com/user-attachments/assets/e1f2e695-fd6a-47a5-91cd-76ff0b62403c)
